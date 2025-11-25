@@ -19,6 +19,8 @@ public class Testcontroller {
 		
 		System.out.println(username);
 		System.out.println(password);
+
+		System.out.println("New task")
 		return "login";
 	
 		
